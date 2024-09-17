@@ -1,0 +1,1 @@
+this is not code to a program, i've added this because its the course book i had to study through my university to come about learning python (hence the structure is not well detailed) i hope it will be of use to someone who is learning python as an introduction to programming
